@@ -10,3 +10,4 @@ def my_collect(array)
   else
     array
 end
+end
